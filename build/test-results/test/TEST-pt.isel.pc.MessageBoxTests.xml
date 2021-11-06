@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.isel.pc.MessageBoxTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-04T22:33:33" hostname="DESKTOP-ECKNT75" time="1.011">
+  <properties/>
+  <testcase name="secondTest" classname="pt.isel.pc.MessageBoxTests" time="1.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Thread-3] INFO pt.isel.pc.MessageBox - first
+[Thread-4] INFO pt.isel.pc.MessageBox - second
+[Thread-5] INFO pt.isel.pc.MessageBox - final
+[Test worker] INFO pt.isel.pc.MessageBox - Number of Threads:2
+]]></system-err>
+</testsuite>
