@@ -1,4 +1,4 @@
-package pt.isel.pc;
+package pt.isel.pc.s1;
 
 public class KeyedThreadPoolExecutor {
 

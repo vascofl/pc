@@ -5,3 +5,5 @@ pt/isel/pc/utils/TestUtils.java
  pt.isel.pc.utils.TestUtils
 pt/isel/pc/MessageBoxTests.java
  pt.isel.pc.MessageBoxTests
+pt/isel/pc/MessageQueueTests.java
+ pt.isel.pc.MessageQueueTests

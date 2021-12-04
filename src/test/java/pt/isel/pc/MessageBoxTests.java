@@ -3,6 +3,7 @@ package pt.isel.pc;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import pt.isel.pc.s1.MessageBox;
 import pt.isel.pc.utils.TestHelper;
 
 import java.time.Duration;
@@ -69,4 +70,6 @@ public class MessageBoxTests {
         }
         //assertEquals(3,numOfThreads.get());
     }
+
+
 }
